@@ -1,0 +1,1 @@
+this is my attempt at making a portfolio. It was very challenging and it took several days to complete, i took some inspiration from the tun buddy challenge in the module and also got some ideas from youtube and other websites. The navigation bar was the toughest part because i could not make it cover the page like the mock-up.
