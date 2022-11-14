@@ -139,6 +139,15 @@ img {
 
 
 /*Footer*/
+footer{
+    padding: 20px;
+    margin: 10px;
+}
+
+footer:target{
+    box-shadow: 0 0 60px rgba(0, 0, 0, 0.6)
+}
+
 .footer_item{
     display: inline;
     justify-content:center;
@@ -147,3 +156,4 @@ img {
     text-decoration: none;
     float: left;
 }
+
